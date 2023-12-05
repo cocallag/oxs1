@@ -6,34 +6,40 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+<<<<<<< HEAD
   <loc>https://cocallag.github.io/oxs1/</loc>
   <lastmod>2023-12-05T12:28:00Z</lastmod>
+=======
+  <loc>https://cocallag.github.io/oxsalt/</loc>
+  <lastmod>2023-12-05T12:24:00Z</lastmod>
+>>>>>>> 32f7972a916c451219fb2f5ea5b0be03735b96e0
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/archive.html</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/archive.html</loc>
+  <lastmod>2023-12-05T12:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/blog/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/blog/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/categories/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/categories/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/contact/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/contact/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/figures/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/figures/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/galleries/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/galleries/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
  <url>
+<<<<<<< HEAD
   <loc>https://cocallag.github.io/oxs1/howto/</loc>
   <lastmod>2023-12-05T12:28:00Z</lastmod>
  </url>
@@ -44,25 +50,37 @@
  <url>
   <loc>https://cocallag.github.io/oxs1/listings/</loc>
   <lastmod>2023-12-05T11:05:00Z</lastmod>
+=======
+  <loc>https://cocallag.github.io/oxsalt/howto/</loc>
+  <lastmod>2023-12-05T12:24:00Z</lastmod>
+>>>>>>> 32f7972a916c451219fb2f5ea5b0be03735b96e0
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/people/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/howto/howto/</loc>
+  <lastmod>2023-12-05T12:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/preprints/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/listings/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/publications/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/people/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/research/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/preprints/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://cocallag.github.io/oxs1/start-page/</loc>
-  <lastmod>2023-12-05T11:05:00Z</lastmod>
+  <loc>https://cocallag.github.io/oxsalt/publications/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/oxsalt/research/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/oxsalt/start-page/</loc>
+  <lastmod>2023-12-05T12:23:00Z</lastmod>
  </url>
 </urlset>
